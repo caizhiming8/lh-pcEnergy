@@ -1,0 +1,75 @@
+
+.el-message{
+    top: 30% !important;
+}
+
+.el-notification.right{
+    right: 35% !important;
+    top: 200px !important;
+}
+
+.el-range-editor.el-input__inner{
+    height: 30px !important;
+    color: 12px;
+}
+.el-range__icon{
+    line-height: 22px !important;
+}
+.el-range-separator{
+    line-height: 22px !important;
+}
+.el-range__close-icon{
+    line-height: 22px !important;
+}
+.el-input__inner{
+    height: 30px !important;
+}
+.el-input__icon{
+    line-height: 30px !important;
+}
+.el-input--suffix .el-input__inner{
+    height: 30px !important;
+}
+
+.el-date-editor .el-range__icon{
+    position: relative !important;
+    top: -4px !important;
+}
+.el-date-editor .el-range__close-icon{
+    position: relative !important;
+    top: -4px !important;
+}
+
+.el-date-editor--daterange{
+    position: relative !important;
+    top: 4px !important;
+}
+.el-date-editor--datetimerange{
+    position: relative !important;
+    top: 4px !important;
+}
+.el-input__icon.el-icon-arrow-down.is-reverse{
+    position: relative !important;
+    top: -4px !important;
+}
+.el-dropdown-menu__item{
+    font-size: 14px !important;
+}
+.noDataEcharts{
+    width: 90% !important;
+    margin: 48px auto 0px !important;
+    height: 250px !important;
+    border-bottom: 1px solid #666 !important;
+    border-left: 1px solid #666 !important;
+    text-align: center !important;
+    line-height: 250px !important;
+    font-size: 18px !important;
+    color: #666 !important;
+    position: relative !important;
+    top: -30px !important;
+}
+
+.el-tree--highlight-current .el-tree-node.is-current>.el-tree-node__content{
+    color: #0098FF !important;
+    font-weight: 700 !important;
+}
